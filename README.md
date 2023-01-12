@@ -1,5 +1,3 @@
-###What's your name 
-###my name is baek minsu 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekminsu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekminsu&layout=compact&theme=tokyonight)
 <!--
