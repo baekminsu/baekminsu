@@ -1,5 +1,5 @@
 ### Hi there 👋
-![baekminsu's github stats](https://github-readme-stats.vercel.app/api?username=baekminsu&show_icons=true)
+[baekminsu's github stats](https://github-readme-stats.vercel.app/api?username=baekminsu&show_icons=true)
 <!--
 **baekminsu/baekminsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
