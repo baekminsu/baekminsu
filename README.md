@@ -6,7 +6,7 @@
 | <a href="https://github.com/baekminsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baekminsu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/baekminsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekminsu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ### ✨Study✨
-<div align="center">
+<div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
