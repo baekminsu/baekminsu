@@ -3,8 +3,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=baekminsoo95)](https://solved.ac/baekminsoo95)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baekminsu&show_icons=true&theme=radical)
-
 | <a href="https://github.com/baekminsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=baekminsu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/baekminsu/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baekminsu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 ### ✨Study✨
