@@ -8,6 +8,6 @@
 ### ✨Tech Stack✨
 <div align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-<br>
-.[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekminsu&langs_count=8)](https://github.com/baekminsu/github-readme-stats) 
 </div>
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baekminsu&langs_count=8)](https://github.com/baekminsu/github-readme-stats) 
