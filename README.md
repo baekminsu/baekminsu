@@ -20,6 +20,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/tableau-181717?style=flat-square&logo=tableau&logoColor=white">
 <img src="https://img.shields.io/badge/docker-181717?style=flat-square&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/debaver-181717?style=flat-square&logo=debaver&logoColor=white">
+<img src="https://img.shields.io/badge/dbeaver-181717?style=flat-square&logo=dbeaver&logoColor=white">
 </div>
 <br>
